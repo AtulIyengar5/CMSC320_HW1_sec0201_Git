@@ -9,3 +9,7 @@ Answer: Data Science can be applied to business and consulting to identify trend
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge combines branches by combining the hisotries of each branch, but rebasing adds one branch to the end of the other without combining the history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning Data Science principles that can be applied to ML courses and work I am involved with in the future.
