@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be applied to business and consulting to identify trends in sales and provide suggestions on how to optimize marketing strategies, consumer satisfaction, and overall revenue.
