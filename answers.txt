@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: We might consider using Git for its version management capabilities which make accessing older versions of software easy, and help teams collaborate on the same project for developing software.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be applied to business and consulting to identify trends in sales and provide suggestions on how to optimize marketing strategies, consumer satisfaction, and overall revenue.
